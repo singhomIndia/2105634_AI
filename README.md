@@ -50,4 +50,4 @@ python image_regeneration.py
 vec_to_image(fittest,original_image)
 ```
 
-I hope this helps!
+
